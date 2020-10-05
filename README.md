@@ -8,4 +8,4 @@ This project was developed in Pair Programming with [Giuliano Peixoto](https://g
 The current project was programmed in React and Redux and fetched [Trivia](https://opentdb.com/api_config.php) and [Gravatar](https://br.gravatar.com/site/implement/images/) Apis.
 
 #### Try it
-Soon, a deploy page will be available for you to be able to play!
+Click on this [deploy page](https://trivia-game-pi.vercel.app/) to play!
